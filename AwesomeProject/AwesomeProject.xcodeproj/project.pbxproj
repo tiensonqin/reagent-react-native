@@ -667,6 +667,7 @@
 				INFOPLIST_FILE = iOS/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = "${inherited}";
+				PRODUCT_BUNDLE_IDENTIFIER = com.tiensonqin.AwesomeProject;
 				PRODUCT_NAME = AwesomeProject;
 			};
 			name = Debug;
@@ -684,6 +685,7 @@
 				INFOPLIST_FILE = iOS/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = "${inherited}";
+				PRODUCT_BUNDLE_IDENTIFIER = com.tiensonqin.AwesomeProject;
 				PRODUCT_NAME = AwesomeProject;
 			};
 			name = Release;
